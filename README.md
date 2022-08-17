@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TanKaiJue
-- 👀 I’m interested in JavaScript, Robotic, HTML
-- 🌱 I’m currently learning JavaScript, Robotic, HTML
+- 👀 I’m interested in JavaScript, Robotic, HTML, Micro.bit
+- 🌱 I’m currently learning JavaScript, Robotic, HTML, Microbit
 
 
 <!---
