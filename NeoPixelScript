@@ -1,0 +1,10 @@
+let strip = neopixel.create(DigitalPin.P0, 10, NeoPixelMode.RGBW)
+strip.setBrightness(200)
+strip.showRainbow(1, 360)
+strip.show()
+basic.pause(500)
+basic.forever(function () {
+    strip.rotate(1)
+    strip.show()
+    basic.pause(500)
+})
